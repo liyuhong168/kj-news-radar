@@ -1,48 +1,84 @@
 {
-"generated_at": "2026-09-05T05:01:03.657517Z",
+"generated_at": "2026-09-06T00:40:56.672433Z",
 "window_hours": 24,
-"total_items": 12,
-"total_items_cross_raw": 43,
-"total_items_raw": 82,
-"total_items_all_mode": 82,
+"total_items": 11,
+"total_items_cross_raw": 42,
+"total_items_raw": 79,
+"total_items_all_mode": 79,
 "topic_filter": "cross_relevance_scoring_v1_0",
 "cross_relevance_threshold": 0.6,
-"archive_total": 2134,
+"archive_total": 2155,
 "site_count": 16,
-"source_count": 5,
+"source_count": 3,
 "site_stats": [
 {
 "site_id": "amz123",
 "site_name": "AMZ123",
 "count": 8,
-"raw_count": 67
+"raw_count": 68
 },
 {
 "site_id": "cifnews",
 "site_name": "雨果跨境",
 "count": 3,
-"raw_count": 10
-},
-{
-"site_id": "amazon_newsroom",
-"site_name": "Amazon Newsroom",
-"count": 1,
-"raw_count": 2
-},
-{
-"site_id": "channelx",
-"site_name": "ChannelX",
-"count": 0,
-"raw_count": 2
+"raw_count": 9
 },
 {
 "site_id": "tophub",
 "site_name": "TopHub",
 "count": 0,
-"raw_count": 1
+"raw_count": 2
 }
 ],
 "items": [
+{
+"id": "2509e32307b16c04882dca5a0b0ce550df62193b",
+"site_id": "amz123",
+"site_name": "AMZ123",
+"source": "跨境快讯",
+"title": "亚马逊计划2029年自配送近九成美国包裹",
+"url": "https://www.amz123.com/kx/uDB1AQXH",
+"published_at": null,
+"first_seen_at": "2026-09-06T00:40:56.672433Z",
+"last_seen_at": "2026-09-06T00:40:56.672433Z",
+"cross_is_related": true,
+"cross_score": 0.85,
+"cross_label": "fee_logistics",
+"cross_relevance_reason": "matched_cross_border_signal",
+"cross_signals": [
+"亚马逊",
+"包裹"
+],
+"cross_platforms": [
+"亚马逊"
+],
+"cross_sites": [
+"us"
+],
+"title_zh": "亚马逊计划2029年自配送近九成美国包裹"
+},
+{
+"id": "83dcdd5af9a36b01269a3eef75b35f457cc6abf6",
+"site_id": "cifnews",
+"site_name": "雨果跨境",
+"source": "跨境资讯",
+"title": "突然！美西一仓库2.6万件货被查，同仓卖家恐受牵连",
+"url": "https://www.cifnews.com/article/188688",
+"published_at": null,
+"first_seen_at": "2026-09-06T00:40:56.672433Z",
+"last_seen_at": "2026-09-06T00:40:56.672433Z",
+"cross_is_related": true,
+"cross_score": 0.64,
+"cross_label": "seller_action",
+"cross_relevance_reason": "matched_cross_border_signal",
+"cross_signals": [
+"卖家",
+"卖家"
+],
+"cross_platforms": [],
+"cross_sites": [],
+"title_zh": "突然！美西一仓库2.6万件货被查，同仓卖家恐受牵连"
+},
 {
 "id": "c402ae5d3f46eb956f7dd549c95b2a6cec7980e7",
 "site_id": "amz123",
@@ -52,7 +88,7 @@
 "url": "https://www.amz123.com/kx/fYSgz4d8",
 "published_at": null,
 "first_seen_at": "2026-09-05T05:01:03.657517Z",
-"last_seen_at": "2026-09-05T05:01:03.657517Z",
+"last_seen_at": "2026-09-06T00:40:56.672433Z",
 "cross_is_related": true,
 "cross_score": 0.89,
 "cross_label": "listing_product",
@@ -78,7 +114,7 @@
 "url": "https://www.amz123.com/kx/8cJWlcw7",
 "published_at": null,
 "first_seen_at": "2026-09-05T05:01:03.657517Z",
-"last_seen_at": "2026-09-05T05:01:03.657517Z",
+"last_seen_at": "2026-09-06T00:40:56.672433Z",
 "cross_is_related": true,
 "cross_score": 0.77,
 "cross_label": "seller_action",
@@ -101,7 +137,7 @@
 "url": "https://www.amz123.com/kx/GTRwiPZE",
 "published_at": null,
 "first_seen_at": "2026-09-05T05:01:03.657517Z",
-"last_seen_at": "2026-09-05T05:01:03.657517Z",
+"last_seen_at": "2026-09-06T00:40:56.672433Z",
 "cross_is_related": true,
 "cross_score": 0.69,
 "cross_label": "seller_action",
@@ -214,6 +250,30 @@
 "title_zh": "OZON阿拉木图仓免运费政策延续至9月30日，卖家面临仓储策略调整压力"
 },
 {
+"id": "e80e7163db3f24beb394f26057bbbd3816f99885",
+"site_id": "amz123",
+"site_name": "AMZ123",
+"source": "跨境快讯",
+"title": "DHL、FedEx、UPS三大国际快递同步调整燃油附加费机制",
+"url": "https://www.amz123.com/kx/EqPmc2Qu",
+"published_at": null,
+"first_seen_at": "2026-09-05T00:41:18.724036Z",
+"last_seen_at": "2026-09-05T00:41:18.724036Z",
+"cross_is_related": true,
+"cross_score": 0.66,
+"cross_label": "general",
+"cross_relevance_reason": "matched_ecommerce_signal",
+"cross_signals": [
+"dhl",
+"fedex",
+"ups",
+"快递"
+],
+"cross_platforms": [],
+"cross_sites": [],
+"title_zh": "DHL、FedEx、UPS三大国际快递同步调整燃油附加费机制"
+},
+{
 "id": "fee492676587aeb22a2bca94ad5bc520730d0f1f",
 "site_id": "cifnews",
 "site_name": "雨果跨境",
@@ -222,7 +282,7 @@
 "url": "https://www.cifnews.com/article/188687",
 "published_at": null,
 "first_seen_at": "2026-09-05T00:41:18.724036Z",
-"last_seen_at": "2026-09-05T05:01:03.657517Z",
+"last_seen_at": "2026-09-06T00:40:56.672433Z",
 "cross_is_related": true,
 "cross_score": 0.64,
 "cross_label": "seller_action",
@@ -234,98 +294,6 @@
 "cross_platforms": [],
 "cross_sites": [],
 "title_zh": "新一轮扫号开始，平台用AI翻旧账，卖家资金安全如何守护？"
-},
-{
-"id": "3592b4b05856fdfbe2feee26d72d55666b6b47c3",
-"site_id": "amazon_newsroom",
-"site_name": "Amazon Newsroom",
-"source": "Amazon官方",
-"title": "Amazon expands Career Choice employee benefit with new programs in high-demand industries",
-"url": "https://www.aboutamazon.com/news/workplace/amazon-career-choice-training-programs-tuition-careers",
-"published_at": "2026-09-04T15:27:02Z",
-"first_seen_at": "2026-09-05T00:41:18.724036Z",
-"last_seen_at": "2026-09-05T05:01:03.657517Z",
-"cross_is_related": true,
-"cross_score": 0.71,
-"cross_label": "general",
-"cross_relevance_reason": "matched_cross_border_signal",
-"cross_signals": [
-"amazon"
-],
-"cross_platforms": [
-"amazon"
-],
-"cross_sites": [],
-"title_zh": "亚马逊通过高需求行业的新计划扩大Career Choice员工福利"
-},
-{
-"id": "420728aa86ffc71f1896159fca3a24a4a3c43a6f",
-"site_id": "amz123",
-"site_name": "AMZ123",
-"source": "跨境快讯",
-"title": "欧税通向港交所递交上市申请，冲刺跨境合规第一股",
-"url": "https://www.amz123.com/kx/R8J2Wntz",
-"published_at": null,
-"first_seen_at": "2026-09-04T05:12:03.311797Z",
-"last_seen_at": "2026-09-04T05:12:03.311797Z",
-"cross_is_related": true,
-"cross_score": 0.73,
-"cross_label": "policy_update",
-"cross_relevance_reason": "matched_cross_border_signal",
-"cross_signals": [
-"跨境",
-"合规"
-],
-"cross_platforms": [],
-"cross_sites": [],
-"title_zh": "欧税通向港交所递交上市申请，冲刺跨境合规第一股"
-},
-{
-"id": "b755a6f4c264e0225b46da6130648fe8f2757c24",
-"site_id": "amz123",
-"site_name": "AMZ123",
-"source": "跨境快讯",
-"title": "TikTok Shop巴西推出本土商家扶持计划，9月起新入驻卖家享前90天佣金减半",
-"url": "https://www.amz123.com/kx/J02jMKPo",
-"published_at": null,
-"first_seen_at": "2026-09-04T05:12:03.311797Z",
-"last_seen_at": "2026-09-04T05:12:03.311797Z",
-"cross_is_related": true,
-"cross_score": 0.71,
-"cross_label": "tiktok",
-"cross_relevance_reason": "matched_cross_border_signal",
-"cross_signals": [
-"tiktok shop",
-"卖家",
-"卖家"
-],
-"cross_platforms": [
-"tiktok shop"
-],
-"cross_sites": [],
-"title_zh": "TikTok Shop巴西推出本土商家扶持计划，9月起新入驻卖家享前90天佣金减半"
-},
-{
-"id": "2d062c0195ec678d02bf7e1a3e6c78e92329423e",
-"site_id": "cifnews",
-"site_name": "雨果跨境",
-"source": "跨境资讯",
-"title": "中国卖家不足2%！这个新兴平台，正有卖家闷声发大财",
-"url": "https://www.cifnews.com/article/188677",
-"published_at": null,
-"first_seen_at": "2026-09-04T05:12:03.311797Z",
-"last_seen_at": "2026-09-05T05:01:03.657517Z",
-"cross_is_related": true,
-"cross_score": 0.64,
-"cross_label": "seller_action",
-"cross_relevance_reason": "matched_cross_border_signal",
-"cross_signals": [
-"卖家",
-"卖家"
-],
-"cross_platforms": [],
-"cross_sites": [],
-"title_zh": "中国卖家不足2%！这个新兴平台，正有卖家闷声发大财"
 }
 ],
 "all_mode_data_url": "data/latest-24h-all.json"
